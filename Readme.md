@@ -9,7 +9,7 @@ Data Visualization - PowerBi
 
 # Objective of the Report
 
- To Develop a real-time credit card dashboard that provides stakeholders with immediate insights into key performance metrics and trends enabling them to effectively monitor and analyze credit card operations, facilitating informed decision-making.
+ To Develop a real-time credit card dashboard that provides stakeholders with immediate insights into key performance metrics and trends, enabling them to effectively monitor and analyze credit card operations, facilitating informed decision-making.
  
 # Summary of Findings:
 
